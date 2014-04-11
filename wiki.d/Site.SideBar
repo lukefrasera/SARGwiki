@@ -1,0 +1,16 @@
+version=pmwiki-2.2.62 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0
+author=Luke Fraser
+charset=UTF-8
+csum=removed pmwiki links
+host=134.197.40.6
+name=Site.SideBar
+passwdedit=@_site_edit
+rev=1
+targets=Main.HomePage,Main.WikiSandbox,PmWiki.PmWiki,PmWiki.BasicEditing,Site.SideBar
+text=* [[Main/HomePage]]%0a* [[Main/WikiSandbox]]%0a%0a%25sidehead%25 [[PmWiki/PmWiki]]%0a* [[PmWiki/Basic Editing]]%0a%0a%25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]
+time=1397253867
+author:1397253867=Luke Fraser
+csum:1397253867=removed pmwiki links
+diff:1397253867:1125550800:=4a5%0a> * [[PmWiki/Initial Setup Tasks]]  %0a5a7,17%0a> * [[PmWiki/Documentation Index]]%0a> * [[PmWiki/FAQ | PmWiki FAQ ]]%0a> * [[PmWiki/PmWikiPhilosophy]]%0a> * [[PmWiki/Release Notes]]%0a> * [[PmWiki/ChangeLog]]%0a> %0a> %25sidehead%25 [[http://www.pmwiki.org | pmwiki.org ]]%0a> * [[Cookbook:Cookbook | Cookbook (addons) ]]%0a> * [[Cookbook:Skins | Skins (themes) ]]%0a> * [[PITS:PITS | PITS (issue tracking) ]]%0a> * [[PmWiki/Mailing Lists]]%0a
+host:1397253867=134.197.40.6

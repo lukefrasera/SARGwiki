@@ -1,0 +1,17 @@
+version=pmwiki-2.2.62 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0
+author=Luke Fraser
+charset=UTF-8
+csum=
+host=134.197.40.6
+name=Main.HomePage
+rev=204
+targets=
+text='''Welcome to Socially Assistive Robotics Group Wiki (SARG)'''
+time=1397253979
+author:1397253979=Luke Fraser
+diff:1397253979:1397253624:=1c1%0a%3c '''Welcome to Socially Assistive Robotics Group Wiki (SARG)'''%0a\ No newline at end of file%0a---%0a> =Welcome to Socially Assistive Robotics Group Wiki (SARG)=%0a
+host:1397253979=134.197.40.6
+author:1397253624=Luke Fraser
+diff:1397253624:1316331993:=1c1,12%0a%3c =Welcome to Socially Assistive Robotics Group Wiki (SARG)=%0a---%0a> Welcome to PmWiki!%0a> %0a> A local copy of PmWiki's%0a> documentation has been installed along with the software,%0a> and is available via the [[PmWiki/documentation index]].  %0a> %0a> To continue setting up PmWiki, see [[PmWiki/initial setup tasks]].%0a> %0a> The [[PmWiki/basic editing]] page describes how to create pages%0a> in PmWiki.  You can practice editing in the [[wiki sandbox]].%0a> %0a> More information about PmWiki is available from http://www.pmwiki.org.%0a
+host:1397253624=134.197.40.6
